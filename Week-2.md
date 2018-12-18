@@ -84,6 +84,7 @@ The difference between span and div is that a span element is in-line and usuall
  
  //Your Answer
  Inheritance is way to pass properties through methods.
+ 
  //Googled Answer
  It is a mechanism where you can drive a class from another class for hierarchy of classes that share a set of attributes and methods.
  
